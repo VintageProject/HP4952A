@@ -1,0 +1,4 @@
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+2e36c41cd15fa535ce6830093796375f u204_04952-10029_tms27c256.bin

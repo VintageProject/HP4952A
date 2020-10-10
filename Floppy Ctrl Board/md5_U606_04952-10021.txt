@@ -1,0 +1,4 @@
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+7db44654d448abba13bfc92c38f2e09d u606_04952-10021_mbm27c256_floppycontroller.bin

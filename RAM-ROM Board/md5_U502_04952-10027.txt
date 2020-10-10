@@ -1,0 +1,4 @@
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+d8d866062218573b065bd72d3dfd6fe9 u502_04952-10027_mbm27c512.bin
