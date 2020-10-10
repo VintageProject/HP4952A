@@ -85,7 +85,8 @@ https://twitter.com/thilographie_de/status/1309171466039111682
 
 ## Disclaimer
 As usual I give these files and this information without any warranty. Before replacing your original EPROMs make sure that you have read all the available information, backed up all data, and made sure that all electrical issues have been taken care of.
-
 I can not take any responsibility or liability for any damage to your unit or tools.
-
 If you have corrections please let me know. I'm happy to correct errors.
+
+This repository is not related to HP, Agilent, or Keysight. The material presented is meant for personal use only and is shared in a "fair use" spirit. The sole intention is to preserve the contents and allow repair and maintenance of vintage gear.
+If you own the copyright to some of the material presented here and you think it should be removed, please contact me. I'll of course remove the files upon request from the original copyright holders.
