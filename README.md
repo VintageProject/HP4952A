@@ -17,7 +17,9 @@ I also took pictures of the boards to give you a rough idea which IC you're look
 
 ## EPROM Types
 MBM27C256: Fujitsu MBM27C256 256 kbit EPROM
+
 MBM27C512: Fujitsu MBM27C512 512 kbit EPROM
+
 TMS27C256: Texas Instruments 27C256 256 kbit EPROM
 
 ## Files
@@ -83,5 +85,7 @@ https://twitter.com/thilographie_de/status/1309171466039111682
 
 ## Disclaimer
 As usual I give these files and this information without any warranty. Before replacing your original EPROMs make sure that you have read all the available information, backed up all data, and made sure that all electrical issues have been taken care of.
+
 I can not take any responsibility or liability for any damage to your unit or tools.
+
 If you have corrections please let me know. I'm happy to correct errors.
