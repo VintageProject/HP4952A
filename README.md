@@ -7,7 +7,7 @@ I had already read a lot about this unit and went to buy it. After some haggling
 
 After that it was all disassembly, cleaning, swapping the Rifa smoke bombs, and reassembly. I also took the opportunity to dump the EPROMs and the two 87C51 microcontrollers. The latter is what this repository is about.
 
-Version information: My HP 4952A is Version 1.0 from 1996.
+Version information: My HP 4952A is Version 1.0 from 1986.
  ![HP 4952A First Power Up](Pics/PowerUp.jpg)
  
 ## The ROMs
