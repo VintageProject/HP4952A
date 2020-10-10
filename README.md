@@ -25,49 +25,49 @@ TMS27C256: Texas Instruments 27C256 256 kbit EPROM
 - Floppy Ctrl Board
   - U606_04952-10021_MBM27C256_FloppyController.BIN
     - MD5 Checksum: 7db44654d448abba13bfc92c38f2e09d
-	- MiniPro Checksum: 0x0059 8728
-  - md5_U606_04952-10021.txt
+    - MiniPro Checksum: 0x0059 8728
+    - md5_U606_04952-10021.txt
  ![Floppy Controller Board](Pics/FloppyControllerBoard.jpg)
  
 - PSU-CPU-CRT Board
   - U212_04952-10029_TMS27C256.BIN
     - MD5 Checksum: 2e36c41cd15fa535ce6830093796375f
-	- MiniPro Checksum: 0x0066 3DBA
-  - md5_U212_04952-10029.txt
+    - MiniPro Checksum: 0x0066 3DBA
+    - md5_U212_04952-10029.txt
   - U914_04952-10005_MBM27C256.BIN
     - MD5 Checksum: ab39f2b89aa4466c214cd6970471bc76
-	- MiniPro Checksum: 0x0019 EE2B
-  - md5_U914_04952-10005.txt
+    - MiniPro Checksum: 0x0019 EE2B
+    - md5_U914_04952-10005.txt
  ![Mainboard with PSU, CRT Controller, CPU](Pics/MainboardCRTCPU.jpg)
  
 - RAM-ROM Board
   - U204_04952-10029_TMS27C256.BIN
     - MD5 Checksum: 2e36c41cd15fa535ce6830093796375f
-	- MiniPro Checksum: 0x0066 3DBA
-  - md5_U204_04952-10029.txt
+    - MiniPro Checksum: 0x0066 3DBA
+    - md5_U204_04952-10029.txt
   - U304_04952-10017_87C51.BIN
     - MD5 Checksum: cc4f04f0152d6ca044982b25d694abf9
-	- MiniPro Checksum: 0x0007 2FF9
-  - md5_U304_04952-10017.txt
+    - MiniPro Checksum: 0x0007 2FF9
+    - md5_U304_04952-10017.txt
   - U500_04952-10028_MBM27C512.BIN
     - MD5 Checksum: 57fac46d17a027f453537a0b78ca70fb
-	- MiniPro Checksum: 0x0067 C49A
-  - md5_U500_04952-10028.txt
+    - MiniPro Checksum: 0x0067 C49A
+    - md5_U500_04952-10028.txt
   - U502_04952-10027_MBM27C512.BIN
     - MD5 Checksum: d8d866062218573b065bd72d3dfd6fe9
-	- MiniPro Checksum: 0x0059 B73D
-  - md5_U502_04952-10027.txt
+    - MiniPro Checksum: 0x0059 B73D
+    - md5_U502_04952-10027.txt
   - U503_04952-10026_MBM27C512.BIN
     - MD5 Checksum: d0c06c9074e94eb6d81491f08a329b62
-	- MiniPro Checksum: 0x0063 F807
-  - md5_U503_04952-10026.txt
+    - MiniPro Checksum: 0x0063 F807
+    - md5_U503_04952-10026.txt
  ![RAM/ROM Board](Pics/RAM-ROM-Board.jpg)
  
 - Unknown PCB
   - U507_04952-10016_87C51.BIN
     - MD5 Checksum: c9430a0a6108acb84ea4a97024c60a4d
-	- MiniPro Checksum: 0x000A 3E57
-  - md5_U507_04952-10016.txt
+    - MiniPro Checksum: 0x000A 3E57
+    - md5_U507_04952-10016.txt
  ![Unknown Board](Pics/UnknownBoard.jpg)
 
 
