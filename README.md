@@ -83,6 +83,9 @@ https://twitter.com/nf6x/status/995778707011731456
 And based on this here is my very own thread, although I may have broken up the thread inadvertently.
 https://twitter.com/thilographie_de/status/1309171466039111682
 
+Here is my repair of the odd HP keyboard connector:
+https://twitter.com/thilographie_de/status/1414257777829101570
+
 ## Disclaimer
 As usual I give these files and this information without any warranty. Before replacing your original EPROMs make sure that you have read all the available information, backed up all data, and made sure that all electrical issues have been taken care of.
 I can not take any responsibility or liability for any damage to your unit or tools.
